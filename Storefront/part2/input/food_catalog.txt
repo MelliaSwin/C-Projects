@@ -1,0 +1,8 @@
+6
+4 2.00 Carrot
+3 1.20 Apple
+16 0.99 Cherry
+8 0.85 Banana
+127 0.05 Grape
+2 4.50 Dragonfruit
+
